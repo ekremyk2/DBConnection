@@ -1,0 +1,5 @@
+C:\Users\EkremPC\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.dll
+C:\Users\EkremPC\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\EkremPC\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\EkremPC\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.dll
+C:\Users\EkremPC\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
